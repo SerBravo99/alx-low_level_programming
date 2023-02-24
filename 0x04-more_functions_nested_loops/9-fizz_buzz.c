@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - Prints a Fizz Buzz program
  * Return: Always 0 (success)
  */
 
@@ -34,6 +34,6 @@ int main(void)
 		}
 
 	}
-	printf('\n');
+	printf("\n");
 	return (0);
 }
