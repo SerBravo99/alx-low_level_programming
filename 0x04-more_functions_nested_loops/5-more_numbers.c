@@ -5,9 +5,10 @@
  * Return: 10 times of the numbers from 0 to 14
  */
 
+
 void more_numbers(void)
 {
-	int (c, d)
+	int c, d;
 
 	for (c = 0; c < 10; c++)
 	{
